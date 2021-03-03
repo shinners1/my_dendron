@@ -2,8 +2,9 @@
 id: 9c9679d1-163a-400d-a6a0-023f24f8282f
 title: '2021-03-02'
 desc: ''
-updated: 1614696637610
+updated: 1614741912177
 created: 1614695427755
+tags: pray
 ---
 
 ## 기도
