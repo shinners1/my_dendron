@@ -1,8 +1,8 @@
 ---
 id: e0991926-62b1-494b-9ec7-16475e701cab
-title: 일을잘한다는것
+title: Being_good_at_work
 desc: ''
-updated: 1614696386464
+updated: 1614775582527
 created: 1614696337997
 ---
 
